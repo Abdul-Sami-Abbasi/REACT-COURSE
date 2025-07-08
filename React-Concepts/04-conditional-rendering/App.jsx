@@ -1,5 +1,7 @@
 // File: 04-conditional-rendering/App.jsx
 
+// Definition: Conditional Rendering in React means showing different UI elements based on a condition
+
 import React from "react";
 
 // Conditional Component
