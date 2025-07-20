@@ -1,5 +1,7 @@
 // File: 08-useEffect-hook/App.jsx
 
+// useEffect: A React Hook that lets you perform side effects (like data fetching, subscriptions, or manual DOM changes) in function components.
+
 import React, { useState, useEffect } from "react";
 
 function App() {
